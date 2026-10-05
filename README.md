@@ -1,1 +1,5 @@
-# NFA-design-exercises
+## 1. The problem that gave me the most trouble was the first one. This isn't because the NFA was difficult to construct, but because I was still getting into the swing of things when it came to using GitHub and downloading/documenting NFAs. I did intentionally avoid the complicated problems that would've required me to union NFAs or use large numbers of states, as we had already done problems in class that I had fresh on memory and could instantly recreate in JFLAP. I didn't have to ask AI or the professor for help with this assignment, but I did refer to digital notes that I took on the DFA and NFA textbook units.
+
+## 2. The only problem that was some semblance of a gold-st-ring was number 14. It wasn't because I neglected to account for next states, but because I forgot that it could be simplified down to only two states, even and odd. Looking back, I should have used more interesting naming conventions for the states of my NFAs because it's helpful for the construction process. I will make a personal note to do better about that on future problems and exams.
+
+## 3. None at the moment. If I think of further insights or questions, I'll just bring them up in class.
